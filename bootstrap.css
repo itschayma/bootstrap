@@ -1,0 +1,78 @@
+strong{
+    color: red;
+}
+body{
+    background-color: black;
+}
+input{
+    border-radius: 10px red;
+}
+
+.nav-link
+{
+    color: white;
+}
+.nav-link:focus,
+.nav-link:hover{
+    color: red;
+
+}
+.navbar-brand{
+    font-size: 25px;
+    color: rgb(255 251 251) !important;
+}
+.positionbtn{
+    margin-left: 18rem;
+
+}
+.positionbtn button{
+    color: white;
+    background-color: red;
+    border-radius: 23px;
+    padding: 6px 11px;
+}
+.nav-item{
+    margin-left: 3rem;
+}
+
+
+#bloc1 img{
+    width: 115%;
+    margin-top: -5rem;
+    height: 115%;
+}
+#bloc1 p{
+    font-size: 4rem !important;
+    font-weight: bold;
+}
+#bloc1 .col-8{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+#bloc2{
+    background-color: #080822;
+    padding: 7rem 0;
+}
+#bloc2 h2{
+font-size: 3rem;
+padding-top: 2rem;
+}
+#bloc3 i{
+    color: red;
+    font-size: 41px;
+    padding-top: 27px;
+}
+#bloc3 .card{
+    width: 22rem;
+     background-color: rgb(8, 8, 34);
+      color: white;
+       text-align: center;
+
+}
+#bloc3 h1{
+    text-align: center;
+    font-size: 5rem;
+    font-weight: bold;
+    margin-top: 3rem;
+
+}
